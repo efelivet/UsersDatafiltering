@@ -11,8 +11,8 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
-  "devDependencies": {
+  "main": "dist/index.js",
+   "devDependencies": {
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.6",
     "ts-node-dev": "^2.0.0",
@@ -20,7 +20,8 @@
   },
   "scripts": {
     "build": "tsc",                        
-    "start": "node index.js",     
+    "start": "node dist/index.ts",
+   
     "dev": "ts-node-dev --respawn --transpile-only index.ts" 
   },
   "keywords": [],

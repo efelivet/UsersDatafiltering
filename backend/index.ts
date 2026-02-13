@@ -1,6 +1,6 @@
 import express from "express"
  import {Request,Response} from "express"
- import {users} from "./data.js"
+ import {users} from "./data"
  import cors from 'cors'
 
   const app = express();
