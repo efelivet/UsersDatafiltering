@@ -1,0 +1,134 @@
+  
+export interface Data{
+   id:number,
+   first_name:string,
+   last_name:string,
+   email:string
+}
+
+export const users :Data[]=[
+   { 
+   id:1,
+   first_name:"pascal",
+   last_name:"franscis",
+   email:"emmanuel@gmail.com"
+},
+   { 
+   id:2,
+   first_name:"Gideon",
+   last_name:"Samuel",
+   email:"luckygift@gmail.com"
+},
+   { 
+   id:3,
+   first_name:"praise",
+   last_name:"mathew",
+   email:"kelvin@gmail.com"
+},
+   { 
+   id:4,
+   first_name:"judith",
+   last_name:"eliot",
+   email:"Sunny@gmail.com"
+},
+   { 
+   id:5,
+   first_name:"Sandra",
+   last_name:"malik",
+   email:"Adedayor@gmail.com"
+},
+   { 
+   id:6,
+   first_name:"patrick",
+   last_name:"edwin",
+   email:"Abel@gmail.com"
+},
+   { 
+   id:7,
+   first_name:"elizabeth",
+   last_name:"Austine",
+   email:"Godstime@gmail.com"
+},
+   { 
+   id:8,
+   first_name:"david",
+   last_name:"eduba",
+   email:"Moses@gmail.com"
+},
+   { 
+   id:9,
+   first_name:"felix",
+   last_name:"Christain",
+   email:"Gilbert@gmail.com"
+},
+   { 
+   id:10,
+   first_name:"fedel",
+   last_name:"Newton",
+   email:"Ifeanyi@gmail.com"
+},
+   { 
+   id:11,
+   first_name:"freeborn",
+   last_name:"osahobo",
+   email:"Clement@gmail.com"
+},
+   { 
+   id:12,
+   first_name:"great",
+   last_name:"king",
+   email:"Brown@gmail.com"
+},
+   { 
+   id:13,
+   first_name:"sunday",
+   last_name:"patrick",
+   email:"Christopher@gmail.com"
+},
+   { 
+   id:14,
+   first_name:"lewis",
+   last_name:"davidson",
+   email:"dandy@gmail.com"
+},
+   { 
+   id:15,
+   first_name:"mark",
+   last_name:"donald",
+   email:"Prince@gmail.com"
+},
+   { 
+   id:16,
+   first_name:"sunday",
+   last_name:"kelvin",
+   email:"kelvinsunday@gmail.com"
+},
+   { 
+   id:17,
+   first_name:"peculiar",
+   last_name:"Etherbeth",
+   email:"peculareterbeth@gmail.com"
+},
+   { 
+   id:18,
+   first_name:"cavin",
+   last_name:"John",
+   email:"johncalvin@gmail.com"
+},
+   { 
+   id:19,
+   first_name:"kingsley",
+   last_name:"morgan",
+   email:"kingsleymorgan@gmail.com"
+},
+   { 
+   id:20,
+   first_name:"patricia",
+   last_name:"Odion",
+   email:"patriciadion@gmail.com"
+},
+]
+  
+ 
+    
+ 
